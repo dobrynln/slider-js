@@ -28,3 +28,7 @@
 .sliders-total__block {
   opacity: 0.7;
 }
+.slider-wrapper {
+  display: flex;
+  overflow: hidden;
+}
